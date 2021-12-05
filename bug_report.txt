@@ -1,0 +1,15 @@
+Summary: Schedule page User Interface is currupted on mobaile devices
+Type: Bug
+Status:CLOSED 
+Priority: Minor
+Resolution:resolved
+Environment:iPhone Xs Max Software version 14.6
+Description
+Precondition:
+1 Launch SAFARI
+2 Open URL https://yanair.ua/schedule_all
+Actual result:
+Schedule page User Interface is currupted on mobaile devices
+Expected result:
+Timetable page user interface should be readable on mobile devices
+Attachments
